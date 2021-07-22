@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://github.com/hsicen</id>
+    <id>http://localhost:4000</id>
     <title>hsicen</title>
-    <updated>2021-07-22T13:41:43.936Z</updated>
+    <updated>2021-07-22T13:42:51.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://github.com/hsicen"/>
-    <link rel="self" href="https://https://github.com/hsicen/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://github.com/hsicen/images/avatar.png</logo>
-    <icon>https://https://github.com/hsicen/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, hsicen</rights>
     <entry>
         <title type="html"><![CDATA[Retrofit]]></title>
-        <id>https://https://github.com/hsicen/post/retrofit/</id>
-        <link href="https://https://github.com/hsicen/post/retrofit/">
+        <id>http://localhost:4000/post/retrofit/</id>
+        <link href="http://localhost:4000/post/retrofit/">
         </link>
         <updated>2021-07-22T13:37:03.000Z</updated>
         <content type="html"><![CDATA[<h5 id="retrofit的简单使用">Retrofit的简单使用</h5>
@@ -502,8 +502,8 @@ Call&lt;List&lt;Activity&gt;&gt; call = service.getActivityList(&quot;http://115
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://github.com/hsicen/post/hello-gridea/</id>
-        <link href="https://https://github.com/hsicen/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
